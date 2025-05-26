@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro num1, num2
+
+		escreva("Digite qualquer numero :")
+			leia (num1)
+		escreva("Digite outro numero :")
+			leia (num2)
+	se(num1 <= 0 ){
+		escreva("Numero Digitado é Positivo")		
+		}senao{
+			escreva("Numero Digitado é negativo")
+			}
+			
+		
+	}
+}
