@@ -1,0 +1,21 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro nota1A, nota2A
+
+		escreva("Digite o valor da nota")
+			leia (nota1A)
+		escreva("Digite o valor da segunda nota")
+			leia(nota2A)
+		
+			
+
+				
+		se(nota1A + nota2A / 2 >= 6){
+			escreva("Aluno aprovado")} senao{
+				escreva ("Aluno Reprovado")
+				}
+			}
+}
