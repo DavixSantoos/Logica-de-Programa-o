@@ -1,0 +1,17 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro maca
+
+	escreva ("numero de maças compradas")
+		leia (maca)
+		
+		se (maca >= 12){
+			escreva("o total de maças compradas", maca * 1.00)
+			} senao{
+				escreva("preço da" ,maca * 1.30)
+				}
+	}
+}
